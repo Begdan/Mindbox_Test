@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f290dcae_002D7b92_002D45f5_002Da50e_002Dd18637552098/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;NUnit3x::4CF83333-EBE1-47AC-A6AB-6C4C56BDD9E5::net6.0::AreaCalculatorTests.TriangleTests&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::4CF83333-EBE1-47AC-A6AB-6C4C56BDD9E5::net6.0::AreaCalculatorTests.CircleTests.InvalidRadiusTest&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::4CF83333-EBE1-47AC-A6AB-6C4C56BDD9E5::net6.0::AreaCalculatorTests.CircleTests.ValidRadiusTest&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::4CF83333-EBE1-47AC-A6AB-6C4C56BDD9E5::net6.0::AreaCalculatorTests.CircleTests&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::4CF83333-EBE1-47AC-A6AB-6C4C56BDD9E5::net6.0::AreaCalculatorTests.CalculatorTests.ValidCircleArea&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::58E1C011-0EE8-4F27-8D78-96BAF227DD93::net6.0::AreaCalculatorTests.CalculatorTests.ValidCircleArea&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::58E1C011-0EE8-4F27-8D78-96BAF227DD93::net6.0::AreaCalculatorTests.CalculatorTests&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;Project Location="/Users/bogdan/Projects/TheMostAdvancedSquareCalculator/AreaCalculatorTests" Presentation="&amp;lt;AreaCalculatorTests&amp;gt;" /&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
